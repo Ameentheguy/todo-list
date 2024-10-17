@@ -1,0 +1,14 @@
+html,
+body {
+    background-color: rgb(156, 240, 188);
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: aliceblue;
+}
+
+.title {}
